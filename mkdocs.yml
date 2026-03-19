@@ -1,0 +1,83 @@
+site_name: Мега Справочник Разработчика 2026
+site_description: Ультимативный Cheat-Sheet для Swift 6, Kotlin 2.3 и Python 3.13
+site_author: silencepeaceoff
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.expand
+    - content.code.copy
+    - search.highlight
+    - search.suggest
+  icon:
+    logo: material/code-braces
+  language: ru
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.inlinehilite
+  - tables
+  - admonition
+  - pymdownx.details
+  - toc:
+      permalink: true
+
+nav:
+  - Введение: index.md
+  - 📘 Базовый синтаксис:
+    - Переменные, Числа, Строки: basics.md
+    - Коллекции: collections.md
+    - Управление потоком: control_flow.md
+    - Функции: functions.md
+    - Операторы: operators.md
+  - 🏛️ ООП и типы:
+    - Классы, Структуры, Протоколы: oop.md
+    - Enums: enums.md
+    - Generics: generics.md
+    - Продвинутые протоколы: advanced_protocols.md
+    - Property Wrappers: property_wrappers.md
+  - ⚡ Concurrency:
+    - Async/Await: async.md
+    - Многопоточность: concurrency.md
+  - 🔧 Практика:
+    - Обработка ошибок: error_handling.md
+    - Работа с сетью: networking.md
+    - Работа с файлами: files.md
+    - Базы данных: databases.md
+    - Сериализация: serialization.md
+    - Тесты: testing.md
+    - Отладка: debugging.md
+  - 🧠 Продвинутое:
+    - Функциональное программирование: functional.md
+    - Result/DSL Builders: dsl_builders.md
+    - Env и CLI аргументы: env_cli.md
+    - Паттерны проектирования: design_patterns.md
+    - Swift Macros: swift_macros.md
+    - Kotlin Multiplatform: kmp.md
+  - 📎 Приложения:
+    - Модификаторы доступа: access_modifiers.md
+    - Утечки памяти: memory_leaks.md
+    - Пакетные менеджеры: package_managers.md
+    - Даты и время: dates.md
