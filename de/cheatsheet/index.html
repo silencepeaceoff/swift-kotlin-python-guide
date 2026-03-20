@@ -1,0 +1,2745 @@
+
+<!doctype html>
+<html lang="de" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Ультимативный Cheat-Sheet для Swift 6, Kotlin 2.3 и Python 3.13">
+      
+      
+        <meta name="author" content="silencepeaceoff">
+      
+      
+      
+        <link rel="prev" href="../">
+      
+      
+        <link rel="next" href="../basics/">
+      
+      
+        
+          <link rel="alternate" href="../../cheatsheet/" hreflang="ru">
+        
+          <link rel="alternate" href="../../en/cheatsheet/" hreflang="en">
+        
+          <link rel="alternate" href="./" hreflang="de">
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>📋 Spickzettel - Mega Entwickler Handbuch 2026</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="amber">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#cheatsheet-swift-kotlin-python-go" class="md-skip">
+          Zum Inhalt
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Kopfzeile">
+    <a href="../" title="Mega Entwickler Handbuch 2026" class="md-header__button md-logo" aria-label="Mega Entwickler Handbuch 2026" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8 3a2 2 0 0 0-2 2v4a2 2 0 0 1-2 2H3v2h1a2 2 0 0 1 2 2v4a2 2 0 0 0 2 2h2v-2H8v-5a2 2 0 0 0-2-2 2 2 0 0 0 2-2V5h2V3m6 0a2 2 0 0 1 2 2v4a2 2 0 0 0 2 2h1v2h-1a2 2 0 0 0-2 2v4a2 2 0 0 1-2 2h-2v-2h2v-5a2 2 0 0 1 2-2 2 2 0 0 1-2-2V5h-2V3z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Mega Entwickler Handbuch 2026
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              📋 Spickzettel
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="amber"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="deep-purple" data-md-color-accent="amber"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+      <div class="md-header__option">
+  <div class="md-select">
+    
+    <button class="md-header__button md-icon" aria-label="Sprache wechseln">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.5 17.5 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2zm-2.62 7 1.62-4.33L19.12 17z"/></svg>
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        
+          <li class="md-select__item">
+            <a href="../../cheatsheet/" hreflang="ru" class="md-select__link">
+              Русский
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="../../en/cheatsheet/" hreflang="en" class="md-select__link">
+              English
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="./" hreflang="de" class="md-select__link">
+              Deutsch
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Suche" placeholder="Suche" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Suche">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Zurücksetzen" aria-label="Zurücksetzen" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Suche wird initialisiert
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/silencepeaceoff/swift-kotlin-python-guide" title="Zum Repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    silencepeaceoff/swift-kotlin-python-guide
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Hauptnavigation" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Einführung
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="./" class="md-tabs__link">
+        
+  
+  
+    
+  
+  📋 Spickzettel
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../basics/" class="md-tabs__link">
+          
+  
+  
+  📘 Grundlagen
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../oop/" class="md-tabs__link">
+          
+  
+  
+  🏛️ OOP & Typen
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../async/" class="md-tabs__link">
+          
+  
+  
+  ⚡ Nebenläufigkeit
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../error_handling/" class="md-tabs__link">
+          
+  
+  
+  🔧 Praxis
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../functional/" class="md-tabs__link">
+          
+  
+  
+  🧠 Fortgeschritten
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../access_modifiers/" class="md-tabs__link">
+          
+  
+  
+  📎 Anhänge
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../" title="Mega Entwickler Handbuch 2026" class="md-nav__button md-logo" aria-label="Mega Entwickler Handbuch 2026" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8 3a2 2 0 0 0-2 2v4a2 2 0 0 1-2 2H3v2h1a2 2 0 0 1 2 2v4a2 2 0 0 0 2 2h2v-2H8v-5a2 2 0 0 0-2-2 2 2 0 0 0 2-2V5h2V3m6 0a2 2 0 0 1 2 2v4a2 2 0 0 0 2 2h1v2h-1a2 2 0 0 0-2 2v4a2 2 0 0 1-2 2h-2v-2h2v-5a2 2 0 0 1 2-2 2 2 0 0 1-2-2V5h-2V3z"/></svg>
+
+    </a>
+    Mega Entwickler Handbuch 2026
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/silencepeaceoff/swift-kotlin-python-guide" title="Zum Repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    silencepeaceoff/swift-kotlin-python-guide
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Einführung
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    📋 Spickzettel
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    📋 Spickzettel
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhaltsverzeichnis">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#deklarationen-typen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Deklarationen &amp; Typen
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#collections" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Collections
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#kontrollfluss" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Kontrollfluss
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#funktionen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Funktionen
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#oop" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        OOP
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#nebenlaufigkeit-concurrency" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Nebenläufigkeit (Concurrency)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fehlerbehandlung" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Fehlerbehandlung
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#speicher-verwaltung" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Speicher &amp; Verwaltung
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#okosystem" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Ökosystem
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    📘 Grundlagen
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    📘 Grundlagen
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../basics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Variablen, Zahlen, Strings
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../collections/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Collections
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../control_flow/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kontrollfluss
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../functions/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Funktionen
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../operators/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Operatoren
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🏛️ OOP & Typen
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    🏛️ OOP & Typen
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../oop/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Klassen, Structs, Protokolle
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../enums/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Enums
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../generics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Generics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../advanced_protocols/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Erweiterte Protokolle
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../property_wrappers/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Property Wrappers
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ⚡ Nebenläufigkeit
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    ⚡ Nebenläufigkeit
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../async/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Async/Await
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../concurrency/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Multithreading
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🔧 Praxis
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    🔧 Praxis
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../error_handling/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fehlerbehandlung
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../data_formats/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Datenformate
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../networking/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Netzwerkprogrammierung
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../files/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dateiverwaltung
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../databases/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Datenbanken
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../serialization/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Serialisierung
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../testing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Testen
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../debugging/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Debugging
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🧠 Fortgeschritten
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    🧠 Fortgeschritten
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../functional/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Funktionale Programmierung
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../regex/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reguläre Ausdrücke
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../images/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bildverarbeitung
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../security/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sicherheit
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dsl_builders/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Result/DSL Builders
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../env_cli/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Env & CLI Parameter
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../design_patterns/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Entwurfsmuster
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../swift_macros/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Swift Makros
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../kmp/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kotlin Multiplatform
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    📎 Anhänge
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    📎 Anhänge
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../access_modifiers/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Zugriffsmodifikatoren
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../memory_leaks/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Speicherlecks
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../package_managers/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Paketmanager
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dates/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Datum & Uhrzeit
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhaltsverzeichnis">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#deklarationen-typen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Deklarationen &amp; Typen
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#collections" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Collections
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#kontrollfluss" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Kontrollfluss
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#funktionen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Funktionen
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#oop" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        OOP
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#nebenlaufigkeit-concurrency" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Nebenläufigkeit (Concurrency)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fehlerbehandlung" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Fehlerbehandlung
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#speicher-verwaltung" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Speicher &amp; Verwaltung
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#okosystem" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Ökosystem
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="cheatsheet-swift-kotlin-python-go">📋 Cheatsheet: Swift · Kotlin · Python · Go<a class="headerlink" href="#cheatsheet-swift-kotlin-python-go" title="Permanent link">🔗</a></h1>
+<p>Eine kurze Syntax-Referenztabelle zum direkten Vergleichen.</p>
+<h2 id="deklarationen-typen">Deklarationen &amp; Typen<a class="headerlink" href="#deklarationen-typen" title="Permanent link">🔗</a></h2>
+<table>
+<thead>
+<tr>
+<th>Konzept</th>
+<th>Swift 6</th>
+<th>Kotlin 2.x</th>
+<th>Python 3.13</th>
+<th>Go 1.24+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Variable</td>
+<td><code>var x = 5</code></td>
+<td><code>var x = 5</code></td>
+<td><code>x = 5</code></td>
+<td><code>var x = 5</code> / <code>x := 5</code></td>
+</tr>
+<tr>
+<td>Konstante</td>
+<td><code>let x = 5</code></td>
+<td><code>val x = 5</code></td>
+<td><code>x = 5</code> (Konvention <code>X = 5</code>)</td>
+<td><code>const x = 5</code></td>
+</tr>
+<tr>
+<td>Typisierung</td>
+<td><code>let x: Int = 5</code></td>
+<td><code>val x: Int = 5</code></td>
+<td><code>x: int = 5</code></td>
+<td><code>var x int = 5</code></td>
+</tr>
+<tr>
+<td>Nullable</td>
+<td><code>var x: Int? = nil</code></td>
+<td><code>var x: Int? = null</code></td>
+<td><code>x: int \| None = None</code></td>
+<td><code>var x *int = nil</code> (Zeiger)</td>
+</tr>
+<tr>
+<td>Unwrap</td>
+<td><code>x!</code>, <code>x ?? 0</code>, <code>if let x</code></td>
+<td><code>x!!</code>, <code>x ?: 0</code>, <code>x?.let {}</code></td>
+<td><code>x or 0</code> (Wahrheitswert)</td>
+<td><code>if x != nil { *x }</code></td>
+</tr>
+<tr>
+<td>Typumwandlung</td>
+<td><code>x as! Int</code>, <code>x as? Int</code></td>
+<td><code>x as Int</code>, <code>x as? Int</code></td>
+<td><code>int(x)</code>, <code>isinstance(x, int)</code></td>
+<td><code>int(x)</code>, <code>x.(int)</code> (für Interface)</td>
+</tr>
+<tr>
+<td>String-Interp.</td>
+<td><code>"Hallo \(name)"</code></td>
+<td><code>"Hallo $name"</code></td>
+<td><code>f"Hallo {name}"</code></td>
+<td><code>fmt.Sprintf("Hallo %s", name)</code></td>
+</tr>
+<tr>
+<td>Multiline String</td>
+<td><code>"""..."""</code></td>
+<td><code>"""..."""</code></td>
+<td><code>"""..."""</code></td>
+<td><code>`...`</code></td>
+</tr>
+</tbody>
+</table>
+<h2 id="collections">Collections<a class="headerlink" href="#collections" title="Permanent link">🔗</a></h2>
+<table>
+<thead>
+<tr>
+<th>Konzept</th>
+<th>Swift 6</th>
+<th>Kotlin 2.x</th>
+<th>Python 3.13</th>
+<th>Go 1.24+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Array / Liste</td>
+<td><code>[1, 2, 3]</code></td>
+<td><code>listOf(1, 2, 3)</code></td>
+<td><code>[1, 2, 3]</code></td>
+<td><code>[]int{1, 2, 3}</code> (Slice)</td>
+</tr>
+<tr>
+<td>Mutabel</td>
+<td><code>var arr = [1,2]</code></td>
+<td><code>mutableListOf(1,2)</code></td>
+<td><code>arr = [1,2]</code></td>
+<td><code>arr = append(arr, 3)</code></td>
+</tr>
+<tr>
+<td>Dictionary / Map</td>
+<td><code>["a": 1, "b": 2]</code></td>
+<td><code>mapOf("a" to 1)</code></td>
+<td><code>{"a": 1, "b": 2}</code></td>
+<td><code>map[string]int{"a": 1}</code></td>
+</tr>
+<tr>
+<td>Set / Menge</td>
+<td><code>Set([1, 2, 3])</code></td>
+<td><code>setOf(1, 2, 3)</code></td>
+<td><code>{1, 2, 3}</code></td>
+<td><code>map[int]struct{}{1: {}}</code></td>
+</tr>
+<tr>
+<td>Tupel</td>
+<td><code>(1, "a")</code></td>
+<td><code>Pair(1, "a")</code></td>
+<td><code>(1, "a")</code></td>
+<td>Mehrfache Rückgabewerte</td>
+</tr>
+<tr>
+<td>Bereich/Range</td>
+<td><code>1...5</code>, <code>1..&lt;5</code></td>
+<td><code>1..5</code>, <code>1 until 5</code></td>
+<td><code>range(1, 6)</code></td>
+<td><code>for i := range 5</code> (Go 1.22+)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="kontrollfluss">Kontrollfluss<a class="headerlink" href="#kontrollfluss" title="Permanent link">🔗</a></h2>
+<table>
+<thead>
+<tr>
+<th>Konzept</th>
+<th>Swift 6</th>
+<th>Kotlin 2.x</th>
+<th>Python 3.13</th>
+<th>Go 1.24+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>If</td>
+<td><code>if x &gt; 0 { }</code></td>
+<td><code>if (x &gt; 0) { }</code></td>
+<td><code>if x &gt; 0:</code></td>
+<td><code>if x &gt; 0 { }</code></td>
+</tr>
+<tr>
+<td>If-Ausdruck</td>
+<td><code>let y = x &gt; 0 ? "+" : "-"</code></td>
+<td><code>val y = if (x &gt; 0) "+" else "-"</code></td>
+<td><code>y = "+" if x &gt; 0 else "-"</code></td>
+<td>Keine (explizites <code>if-else</code> nutzen)</td>
+</tr>
+<tr>
+<td>Switch</td>
+<td><code>switch x { case .a: ... }</code></td>
+<td><code>when (x) { is A -&gt; ... }</code></td>
+<td><code>match x: case A(): ...</code></td>
+<td><code>switch x { case A: ... }</code></td>
+</tr>
+<tr>
+<td>For</td>
+<td><code>for i in 0..&lt;5 { }</code></td>
+<td><code>for (i in 0 until 5) { }</code></td>
+<td><code>for i in range(5):</code></td>
+<td><code>for i := 0; i &lt; 5; i++ { }</code></td>
+</tr>
+<tr>
+<td>For-each</td>
+<td><code>arr.forEach { }</code></td>
+<td><code>arr.forEach { }</code></td>
+<td><code>for x in arr:</code></td>
+<td><code>for i, v := range arr { }</code></td>
+</tr>
+<tr>
+<td>While</td>
+<td><code>while x &gt; 0 { }</code></td>
+<td><code>while (x &gt; 0) { }</code></td>
+<td><code>while x &gt; 0:</code></td>
+<td><code>for x &gt; 0 { }</code></td>
+</tr>
+<tr>
+<td>Guard/require</td>
+<td><code>guard x &gt; 0 else { return }</code></td>
+<td><code>require(x &gt; 0)</code></td>
+<td><code>assert x &gt; 0</code></td>
+<td><code>if x &lt;= 0 { return }</code></td>
+</tr>
+</tbody>
+</table>
+<h2 id="funktionen">Funktionen<a class="headerlink" href="#funktionen" title="Permanent link">🔗</a></h2>
+<table>
+<thead>
+<tr>
+<th>Konzept</th>
+<th>Swift 6</th>
+<th>Kotlin 2.x</th>
+<th>Python 3.13</th>
+<th>Go 1.24+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Deklaration</td>
+<td><code>func add(_ a: Int, _ b: Int) -&gt; Int</code></td>
+<td><code>fun add(a: Int, b: Int): Int</code></td>
+<td><code>def add(a: int, b: int) -&gt; int:</code></td>
+<td><code>func add(a, b int) int { }</code></td>
+</tr>
+<tr>
+<td>Lambda</td>
+<td><code>{ (a, b) in a + b }</code></td>
+<td><code>{ a, b -&gt; a + b }</code></td>
+<td><code>lambda a, b: a + b</code></td>
+<td><code>func(a, b int) int { return a + b }</code></td>
+</tr>
+<tr>
+<td>Standardparam.</td>
+<td><code>func f(x: Int = 0)</code></td>
+<td><code>fun f(x: Int = 0)</code></td>
+<td><code>def f(x: int = 0):</code></td>
+<td>Keine (verwende Builder/Options Pattern)</td>
+</tr>
+<tr>
+<td>Variadisch</td>
+<td><code>func f(_ n: Int...)</code></td>
+<td><code>fun f(vararg n: Int)</code></td>
+<td><code>def f(*args):</code></td>
+<td><code>func f(n ...int)</code></td>
+</tr>
+<tr>
+<td>Benannte Arg.</td>
+<td><code>f(x: 1, y: 2)</code></td>
+<td><code>f(x = 1, y = 2)</code></td>
+<td><code>f(x=1, y=2)</code></td>
+<td>Keine (übergebe ein Struct z.B. <code>Options{}</code>)</td>
+</tr>
+<tr>
+<td>Extension</td>
+<td><code>extension Int { func sq() }</code></td>
+<td><code>fun Int.sq()</code></td>
+<td>Keine</td>
+<td><code>func (i MyInt) sq()</code> (nur lokale Typen)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="oop">OOP<a class="headerlink" href="#oop" title="Permanent link">🔗</a></h2>
+<table>
+<thead>
+<tr>
+<th>Konzept</th>
+<th>Swift 6</th>
+<th>Kotlin 2.x</th>
+<th>Python 3.13</th>
+<th>Go 1.24+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Klasse</td>
+<td><code>class Dog { }</code></td>
+<td><code>class Dog { }</code></td>
+<td><code>class Dog:</code></td>
+<td><code>type Dog struct { }</code> (Value-Typ!)</td>
+</tr>
+<tr>
+<td>Vererbung</td>
+<td><code>class Dog: Animal { }</code></td>
+<td><code>class Dog : Animal() { }</code></td>
+<td><code>class Dog(Animal):</code></td>
+<td>Keine (Komposition mit Embedded struct)</td>
+</tr>
+<tr>
+<td>Interface</td>
+<td><code>protocol P { }</code></td>
+<td><code>interface P { }</code></td>
+<td><code>class P(Protocol):</code></td>
+<td><code>type P interface { }</code> (Duck Typing!)</td>
+</tr>
+<tr>
+<td>Data Class</td>
+<td>— (struct + Equatable)</td>
+<td><code>data class Point(val x: Int)</code></td>
+<td><code>@dataclass class Point:</code></td>
+<td><code>type Point struct { X int }</code></td>
+</tr>
+<tr>
+<td>Enum</td>
+<td><code>enum E { case a, b }</code></td>
+<td><code>enum class E { A, B }</code></td>
+<td><code>class E(Enum):</code></td>
+<td><code>type E int; const (A E = iota)</code></td>
+</tr>
+<tr>
+<td>Sealed</td>
+<td><code>enum</code> (mit Assoc. Values)</td>
+<td><code>sealed class</code> / <code>sealed interface</code></td>
+<td><code>Union[A, B]</code> (TypeVar)</td>
+<td>Meist Interface + private Methode</td>
+</tr>
+<tr>
+<td>Singleton</td>
+<td><code>static let shared</code></td>
+<td><code>object Singleton</code></td>
+<td>Modul / <code>__new__</code></td>
+<td><code>var shared = &amp;Singleton{}; sync.Once</code></td>
+</tr>
+<tr>
+<td>Struct/Value</td>
+<td><code>struct S { }</code></td>
+<td><code>@JvmInline value class</code></td>
+<td><code>NamedTuple</code></td>
+<td><code>type S struct { }</code> (Immer By-Value übergeben, außer <code>*S</code>)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="nebenlaufigkeit-concurrency">Nebenläufigkeit (Concurrency)<a class="headerlink" href="#nebenlaufigkeit-concurrency" title="Permanent link">🔗</a></h2>
+<table>
+<thead>
+<tr>
+<th>Konzept</th>
+<th>Swift 6</th>
+<th>Kotlin 2.x</th>
+<th>Python 3.13</th>
+<th>Go 1.24+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Async func</td>
+<td><code>func f() async throws -&gt; T</code></td>
+<td><code>suspend fun f(): T</code></td>
+<td><code>async def f() -&gt; T:</code></td>
+<td>Normale Funktion (<code>go f()</code>)</td>
+</tr>
+<tr>
+<td>Await</td>
+<td><code>try await f()</code></td>
+<td><code>f()</code> (im Suspend Kontext)</td>
+<td><code>await f()</code></td>
+<td>Blockierend (<code>&lt;-ch</code> oder <code>wg.Wait()</code>)</td>
+</tr>
+<tr>
+<td>Parallel</td>
+<td><code>async let a = f()</code></td>
+<td><code>async { f() }</code></td>
+<td><code>asyncio.gather()</code></td>
+<td><code>go f()</code> (Goroutine)</td>
+</tr>
+<tr>
+<td>Task Group</td>
+<td><code>withTaskGroup</code></td>
+<td><code>coroutineScope { }</code></td>
+<td><code>asyncio.TaskGroup()</code></td>
+<td><code>errgroup.Group</code> / <code>sync.WaitGroup</code></td>
+</tr>
+<tr>
+<td>Stream</td>
+<td><code>AsyncStream</code></td>
+<td><code>Flow</code></td>
+<td><code>async for</code></td>
+<td>Kanäle (<code>chan T</code>)</td>
+</tr>
+<tr>
+<td>Actor/Lock</td>
+<td><code>actor A { }</code></td>
+<td><code>Mutex()</code></td>
+<td><code>asyncio.Lock()</code></td>
+<td><code>sync.Mutex</code> / Kanäle</td>
+</tr>
+<tr>
+<td>Main Thread</td>
+<td><code>@MainActor</code></td>
+<td><code>Dispatchers.Main</code></td>
+<td><code>loop.call_soon</code></td>
+<td>Keine UI-Warteschlange in Go, OS Runtime</td>
+</tr>
+</tbody>
+</table>
+<h2 id="fehlerbehandlung">Fehlerbehandlung<a class="headerlink" href="#fehlerbehandlung" title="Permanent link">🔗</a></h2>
+<table>
+<thead>
+<tr>
+<th>Konzept</th>
+<th>Swift 6</th>
+<th>Kotlin 2.x</th>
+<th>Python 3.13</th>
+<th>Go 1.24+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Werfen / Throw</td>
+<td><code>throw MyError.x</code></td>
+<td><code>throw MyException()</code></td>
+<td><code>raise MyError()</code></td>
+<td><code>return nil, errors.New("err")</code></td>
+</tr>
+<tr>
+<td>Auffangen / Catch</td>
+<td><code>do { try f() } catch { }</code></td>
+<td><code>try { f() } catch () { }</code></td>
+<td><code>try: f() except:</code></td>
+<td><code>if err != nil { return err }</code></td>
+</tr>
+<tr>
+<td>Optional Error</td>
+<td><code>try? f()</code></td>
+<td><code>runCatching { f() }</code></td>
+<td>Keine Entsprechung</td>
+<td><code>if err != nil</code></td>
+</tr>
+<tr>
+<td>Result</td>
+<td><code>Result&lt;T, Error&gt;</code></td>
+<td><code>Result&lt;T&gt;</code> (stdlib)</td>
+<td>Pydantic Result</td>
+<td>Rückgabe eines Tupels <code>(T, error)</code></td>
+</tr>
+<tr>
+<td>Panic/Crash</td>
+<td><code>fatalError()</code></td>
+<td><code>throw RuntimeException()</code></td>
+<td><code>raise Exception()</code></td>
+<td><code>panic("crash")</code> / <code>recover()</code></td>
+</tr>
+</tbody>
+</table>
+<h2 id="speicher-verwaltung">Speicher &amp; Verwaltung<a class="headerlink" href="#speicher-verwaltung" title="Permanent link">🔗</a></h2>
+<table>
+<thead>
+<tr>
+<th>Konzept</th>
+<th>Swift 6</th>
+<th>Kotlin 2.x</th>
+<th>Python 3.13</th>
+<th>Go 1.24+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Modell</td>
+<td>ARC (Count Ref)</td>
+<td>JVM GC</td>
+<td>Ref-counting + cyclic GC</td>
+<td>Concurrent Tri-color GC</td>
+</tr>
+<tr>
+<td>Schwache Ref.</td>
+<td><code>weak var x: T?</code></td>
+<td><code>WeakReference&lt;T&gt;(obj)</code></td>
+<td><code>weakref.ref(obj)</code></td>
+<td>Keine (nicht benötigt)</td>
+</tr>
+<tr>
+<td>Bereinigung</td>
+<td><code>deinit { }</code></td>
+<td><code>protected fun finalize()</code></td>
+<td><code>def __del__(self):</code></td>
+<td><code>runtime.SetFinalizer(obj)</code> (selten)</td>
+</tr>
+<tr>
+<td>Post-Exit</td>
+<td><code>defer { }</code></td>
+<td><code>try { } finally { }</code></td>
+<td><code>try: ... finally:</code></td>
+<td><code>defer file.Close()</code></td>
+</tr>
+</tbody>
+</table>
+<h2 id="okosystem">Ökosystem<a class="headerlink" href="#okosystem" title="Permanent link">🔗</a></h2>
+<table>
+<thead>
+<tr>
+<th>Tool</th>
+<th>Swift 6</th>
+<th>Kotlin 2.x</th>
+<th>Python 3.13</th>
+<th>Go 1.24+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Manager</td>
+<td>SPM</td>
+<td>Gradle KTS</td>
+<td>uv / pip</td>
+<td><code>go mod</code></td>
+</tr>
+<tr>
+<td>Konfiguration</td>
+<td><code>Package.swift</code></td>
+<td><code>build.gradle.kts</code></td>
+<td><code>pyproject.toml</code></td>
+<td><code>go.mod</code> / <code>go.work</code></td>
+</tr>
+<tr>
+<td>Tests</td>
+<td>Swift Testing / XCTest</td>
+<td>JUnit 5 + MockK</td>
+<td>pytest</td>
+<td><code>testing</code> (eingebaut)</td>
+</tr>
+<tr>
+<td>Formatierer</td>
+<td>swift-format</td>
+<td>Ktfmt</td>
+<td>Ruff format</td>
+<td><code>go fmt</code> (Strenger Standard!)</td>
+</tr>
+<tr>
+<td>Daten/Uhrzeit</td>
+<td>Foundation <code>Date</code></td>
+<td>kotlinx-datetime</td>
+<td><code>datetime</code></td>
+<td><code>time.Time</code></td>
+</tr>
+<tr>
+<td>HTTP/Netz</td>
+<td>URLSession</td>
+<td>Ktor Client</td>
+<td>httpx / aiohttp</td>
+<td><code>net/http</code></td>
+</tr>
+<tr>
+<td>ORM/Datenbank</td>
+<td>SwiftData / GRDB</td>
+<td>Room / Exposed</td>
+<td>SQLAlchemy</td>
+<td>GORM / sqlc / std <code>database/sql</code></td>
+</tr>
+<tr>
+<td>Serialisierung</td>
+<td>Codable</td>
+<td>kotlinx.serialization</td>
+<td>Pydantic v2</td>
+<td><code>encoding/json</code></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Zurück zum Seitenanfang
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Fußzeile" >
+        
+          
+          <a href="../" class="md-footer__link md-footer__link--prev" aria-label="Zurück: Einführung">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Zurück
+              </span>
+              <div class="md-ellipsis">
+                Einführung
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../basics/" class="md-footer__link md-footer__link--next" aria-label="Weiter: Variablen, Zahlen, Strings">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Weiter
+              </span>
+              <div class="md-ellipsis">
+                Variablen, Zahlen, Strings
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.sections", "navigation.top", "navigation.expand", "navigation.tracking", "navigation.footer", "content.code.copy", "content.tabs.link", "search.highlight", "search.suggest"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "In Zwischenablage kopiert", "clipboard.copy": "In Zwischenablage kopieren", "search.result.more.one": "1 weiteres Suchergebnis auf dieser Seite", "search.result.more.other": "# weitere Suchergebnisse auf dieser Seite", "search.result.none": "Keine Suchergebnisse", "search.result.one": "1 Suchergebnis", "search.result.other": "# Suchergebnisse", "search.result.placeholder": "Suchbegriff eingeben", "search.result.term.missing": "Es fehlt", "select.version": "Version ausw\u00e4hlen"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
