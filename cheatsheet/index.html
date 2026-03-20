@@ -78,7 +78,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#cheatsheet-swift-kotlin-python" class="md-skip">
+        <a href="#cheatsheet-swift-kotlin-python-go" class="md-skip">
           Перейти к содержанию
         </a>
       
@@ -609,7 +609,7 @@
   <a href="#_8" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Пакеты и инструменты
+        Экосистема
       
     </span>
   </a>
@@ -2032,7 +2032,7 @@
   <a href="#_8" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Пакеты и инструменты
+        Экосистема
       
     </span>
   </a>
@@ -2059,7 +2059,7 @@
   
 
 
-<h1 id="cheatsheet-swift-kotlin-python">📋 Cheatsheet: Swift · Kotlin · Python<a class="headerlink" href="#cheatsheet-swift-kotlin-python" title="Permanent link">🔗</a></h1>
+<h1 id="cheatsheet-swift-kotlin-python-go">📋 Cheatsheet: Swift · Kotlin · Python · Go<a class="headerlink" href="#cheatsheet-swift-kotlin-python-go" title="Permanent link">🔗</a></h1>
 <p>Краткая справочная таблица синтаксиса для быстрого сравнения.</p>
 <h2 id="_1">Объявления и типы<a class="headerlink" href="#_1" title="Permanent link">🔗</a></h2>
 <table>
@@ -2069,6 +2069,7 @@
 <th>Swift 6</th>
 <th>Kotlin 2.x</th>
 <th>Python 3.13</th>
+<th>Go 1.24+</th>
 </tr>
 </thead>
 <tbody>
@@ -2077,48 +2078,56 @@
 <td><code>var x = 5</code></td>
 <td><code>var x = 5</code></td>
 <td><code>x = 5</code></td>
+<td><code>var x = 5</code> / <code>x := 5</code></td>
 </tr>
 <tr>
 <td>Константа</td>
 <td><code>let x = 5</code></td>
 <td><code>val x = 5</code></td>
 <td><code>x = 5</code> (соглашение <code>X = 5</code>)</td>
+<td><code>const x = 5</code></td>
 </tr>
 <tr>
 <td>Тип аннотация</td>
 <td><code>let x: Int = 5</code></td>
 <td><code>val x: Int = 5</code></td>
 <td><code>x: int = 5</code></td>
+<td><code>var x int = 5</code></td>
 </tr>
 <tr>
 <td>Nullable</td>
 <td><code>var x: Int? = nil</code></td>
 <td><code>var x: Int? = null</code></td>
 <td><code>x: int \| None = None</code></td>
+<td><code>var x *int = nil</code> (указатель)</td>
 </tr>
 <tr>
 <td>Unwrap</td>
 <td><code>x!</code>, <code>x ?? 0</code>, <code>if let x</code></td>
 <td><code>x!!</code>, <code>x ?: 0</code>, <code>x?.let {}</code></td>
 <td><code>x or 0</code> (truthy)</td>
+<td><code>if x != nil { *x }</code></td>
 </tr>
 <tr>
 <td>Приведение типа</td>
 <td><code>x as! Int</code>, <code>x as? Int</code></td>
 <td><code>x as Int</code>, <code>x as? Int</code></td>
 <td><code>int(x)</code>, <code>isinstance(x, int)</code></td>
+<td><code>int(x)</code>, <code>x.(int)</code> (для interface)</td>
 </tr>
 <tr>
 <td>Строковая интерп.</td>
 <td><code>"Hello \(name)"</code></td>
 <td><code>"Hello $name"</code></td>
 <td><code>f"Hello {name}"</code></td>
+<td><code>fmt.Sprintf("Hello %s", name)</code></td>
 </tr>
 <tr>
 <td>Multiline string</td>
 <td><code>"""..."""</code></td>
 <td><code>"""..."""</code></td>
 <td><code>"""..."""</code></td>
+<td><code>`...`</code></td>
 </tr>
 </tbody>
 </table>
@@ -2130,6 +2139,7 @@
 <th>Swift 6</th>
 <th>Kotlin 2.x</th>
 <th>Python 3.13</th>
+<th>Go 1.24+</th>
 </tr>
 </thead>
 <tbody>
@@ -2138,36 +2148,42 @@
 <td><code>[1, 2, 3]</code></td>
 <td><code>listOf(1, 2, 3)</code></td>
 <td><code>[1, 2, 3]</code></td>
+<td><code>[]int{1, 2, 3}</code> (slice)</td>
 </tr>
 <tr>
 <td>Мутабельный</td>
 <td><code>var arr = [1,2]</code></td>
 <td><code>mutableListOf(1,2)</code></td>
 <td><code>arr = [1,2]</code></td>
+<td><code>arr = append(arr, 3)</code></td>
 </tr>
 <tr>
 <td>Словарь</td>
 <td><code>["a": 1, "b": 2]</code></td>
 <td><code>mapOf("a" to 1)</code></td>
 <td><code>{"a": 1, "b": 2}</code></td>
+<td><code>map[string]int{"a": 1}</code></td>
 </tr>
 <tr>
 <td>Множество</td>
 <td><code>Set([1, 2, 3])</code></td>
 <td><code>setOf(1, 2, 3)</code></td>
 <td><code>{1, 2, 3}</code></td>
+<td><code>map[int]struct{}{1: {}}</code></td>
 </tr>
 <tr>
 <td>Tuple</td>
 <td><code>(1, "a")</code></td>
 <td><code>Pair(1, "a")</code></td>
 <td><code>(1, "a")</code></td>
+<td>Множественный возврат функцией</td>
 </tr>
 <tr>
 <td>Диапазон</td>
 <td><code>1...5</code>, <code>1..&lt;5</code></td>
 <td><code>1..5</code>, <code>1 until 5</code></td>
 <td><code>range(1, 6)</code></td>
+<td><code>for i := range 5</code> (Go 1.22+)</td>
 </tr>
 </tbody>
 </table>
@@ -2179,6 +2195,7 @@
 <th>Swift 6</th>
 <th>Kotlin 2.x</th>
 <th>Python 3.13</th>
+<th>Go 1.24+</th>
 </tr>
 </thead>
 <tbody>
@@ -2187,42 +2204,49 @@
 <td><code>if x &gt; 0 { }</code></td>
 <td><code>if (x &gt; 0) { }</code></td>
 <td><code>if x &gt; 0:</code></td>
+<td><code>if x &gt; 0 { }</code></td>
 </tr>
 <tr>
 <td>If-expr</td>
 <td><code>let y = x &gt; 0 ? "+" : "-"</code></td>
 <td><code>val y = if (x &gt; 0) "+" else "-"</code></td>
 <td><code>y = "+" if x &gt; 0 else "-"</code></td>
+<td>Нет (писать <code>if-else</code> явно)</td>
 </tr>
 <tr>
 <td>Switch</td>
 <td><code>switch x { case .a: ... }</code></td>
 <td><code>when (x) { is A -&gt; ... }</code></td>
 <td><code>match x: case A(): ...</code></td>
+<td><code>switch x { case A: ... }</code></td>
 </tr>
 <tr>
 <td>For</td>
 <td><code>for i in 0..&lt;5 { }</code></td>
 <td><code>for (i in 0 until 5) { }</code></td>
 <td><code>for i in range(5):</code></td>
+<td><code>for i := 0; i &lt; 5; i++ { }</code></td>
 </tr>
 <tr>
 <td>For-each</td>
 <td><code>arr.forEach { }</code></td>
 <td><code>arr.forEach { }</code></td>
 <td><code>for x in arr:</code></td>
+<td><code>for i, v := range arr { }</code></td>
 </tr>
 <tr>
 <td>While</td>
 <td><code>while x &gt; 0 { }</code></td>
 <td><code>while (x &gt; 0) { }</code></td>
 <td><code>while x &gt; 0:</code></td>
+<td><code>for x &gt; 0 { }</code></td>
 </tr>
 <tr>
 <td>Guard/require</td>
 <td><code>guard x &gt; 0 else { return }</code></td>
 <td><code>require(x &gt; 0)</code></td>
 <td><code>assert x &gt; 0</code></td>
+<td><code>if x &lt;= 0 { return }</code></td>
 </tr>
 </tbody>
 </table>
@@ -2234,6 +2258,7 @@
 <th>Swift 6</th>
 <th>Kotlin 2.x</th>
 <th>Python 3.13</th>
+<th>Go 1.24+</th>
 </tr>
 </thead>
 <tbody>
@@ -2242,36 +2267,42 @@
 <td><code>func add(_ a: Int, _ b: Int) -&gt; Int</code></td>
 <td><code>fun add(a: Int, b: Int): Int</code></td>
 <td><code>def add(a: int, b: int) -&gt; int:</code></td>
+<td><code>func add(a, b int) int { }</code></td>
 </tr>
 <tr>
 <td>Лямбда</td>
 <td><code>{ (a, b) in a + b }</code></td>
 <td><code>{ a, b -&gt; a + b }</code></td>
 <td><code>lambda a, b: a + b</code></td>
+<td><code>func(a, b int) int { return a + b }</code></td>
 </tr>
 <tr>
 <td>Аргумент по умол.</td>
 <td><code>func f(x: Int = 0)</code></td>
 <td><code>fun f(x: Int = 0)</code></td>
 <td><code>def f(x: int = 0):</code></td>
+<td>Нет (нужны паттерны builder/options)</td>
 </tr>
 <tr>
 <td>Variadic</td>
 <td><code>func f(_ n: Int...)</code></td>
 <td><code>fun f(vararg n: Int)</code></td>
 <td><code>def f(*args):</code></td>
+<td><code>func f(n ...int)</code></td>
 </tr>
 <tr>
 <td>Named args</td>
 <td><code>f(x: 1, y: 2)</code></td>
 <td><code>f(x = 1, y = 2)</code></td>
 <td><code>f(x=1, y=2)</code></td>
+<td>Нет (передаются 3 struct <code>Options{}</code>)</td>
 </tr>
 <tr>
 <td>Extension</td>
 <td><code>extension Int { func sq() }</code></td>
 <td><code>fun Int.sq()</code></td>
-<td>Нет (но monkey-patching)</td>
+<td>Нет</td>
+<td><code>func (i MyInt) sq()</code> (только локальные типы)</td>
 </tr>
 </tbody>
 </table>
@@ -2283,6 +2314,7 @@
 <th>Swift 6</th>
 <th>Kotlin 2.x</th>
 <th>Python 3.13</th>
+<th>Go 1.24+</th>
 </tr>
 </thead>
 <tbody>
@@ -2291,48 +2323,56 @@
 <td><code>class Dog { }</code></td>
 <td><code>class Dog { }</code></td>
 <td><code>class Dog:</code></td>
+<td><code>type Dog struct { }</code> (value-тип!)</td>
 </tr>
 <tr>
 <td>Наследование</td>
 <td><code>class Dog: Animal { }</code></td>
 <td><code>class Dog : Animal() { }</code></td>
 <td><code>class Dog(Animal):</code></td>
+<td>Нет (только композиция Embedded struct)</td>
 </tr>
 <tr>
 <td>Интерфейс</td>
 <td><code>protocol P { }</code></td>
 <td><code>interface P { }</code></td>
-<td><code>class P(Protocol):</code> / <code>ABC</code></td>
+<td><code>class P(Protocol):</code></td>
+<td><code>type P interface { }</code> (Duck Typing!)</td>
 </tr>
 <tr>
 <td>Data class</td>
 <td>— (struct + Equatable)</td>
 <td><code>data class Point(val x: Int)</code></td>
 <td><code>@dataclass class Point:</code></td>
+<td><code>type Point struct { X int }</code></td>
 </tr>
 <tr>
 <td>Enum</td>
 <td><code>enum E { case a, b }</code></td>
 <td><code>enum class E { A, B }</code></td>
 <td><code>class E(Enum):</code></td>
+<td><code>type E int; const (A E = iota)</code></td>
 </tr>
 <tr>
 <td>Sealed</td>
-<td><code>enum</code> (с associated values)</td>
+<td><code>enum</code> (с assoc values)</td>
 <td><code>sealed class</code> / <code>sealed interface</code></td>
-<td><code>Union[A, B]</code></td>
+<td><code>Union[A, B]</code> (TypeVar)</td>
+<td>Чаще интерфейс + приватный метод</td>
 </tr>
 <tr>
 <td>Singleton</td>
-<td><code>static</code> members</td>
+<td><code>static let shared</code></td>
 <td><code>object Singleton</code></td>
 <td>Модуль / <code>__new__</code></td>
+<td><code>var shared = &amp;Singleton{}; sync.Once</code></td>
 </tr>
 <tr>
 <td>Struct/Value</td>
 <td><code>struct S { }</code></td>
 <td><code>@JvmInline value class</code></td>
-<td><code>NamedTuple</code> / <code>frozen dataclass</code></td>
+<td><code>NamedTuple</code></td>
+<td><code>type S struct { }</code> (Всегда передаётся по значению, если не <code>*S</code>)</td>
 </tr>
 </tbody>
 </table>
@@ -2344,6 +2384,7 @@
 <th>Swift 6</th>
 <th>Kotlin 2.x</th>
 <th>Python 3.13</th>
+<th>Go 1.24+</th>
 </tr>
 </thead>
 <tbody>
@@ -2352,42 +2393,49 @@
 <td><code>func f() async throws -&gt; T</code></td>
 <td><code>suspend fun f(): T</code></td>
 <td><code>async def f() -&gt; T:</code></td>
+<td>Обычная функция (<code>go f()</code>)</td>
 </tr>
 <tr>
 <td>Await</td>
 <td><code>try await f()</code></td>
 <td><code>f()</code> (в suspend контексте)</td>
 <td><code>await f()</code></td>
+<td>Блокировка (<code>&lt;-ch</code> или <code>wg.Wait()</code>)</td>
 </tr>
 <tr>
 <td>Параллельно</td>
 <td><code>async let a = f()</code></td>
 <td><code>async { f() }</code></td>
-<td><code>asyncio.gather(f1(), f2())</code></td>
+<td><code>asyncio.gather()</code></td>
+<td><code>go f()</code> (горутина)</td>
 </tr>
 <tr>
 <td>Task group</td>
 <td><code>withTaskGroup</code></td>
 <td><code>coroutineScope { }</code></td>
 <td><code>asyncio.TaskGroup()</code></td>
+<td><code>errgroup.Group</code> / <code>sync.WaitGroup</code></td>
 </tr>
 <tr>
 <td>Stream</td>
 <td><code>AsyncStream</code></td>
 <td><code>Flow</code></td>
-<td><code>async for x in gen()</code></td>
+<td><code>async for</code></td>
+<td>Базовые каналы (<code>chan T</code>)</td>
 </tr>
 <tr>
 <td>Actor/Lock</td>
 <td><code>actor A { }</code></td>
 <td><code>Mutex()</code></td>
 <td><code>asyncio.Lock()</code></td>
+<td><code>sync.Mutex</code> / каналы</td>
 </tr>
 <tr>
 <td>Главный поток</td>
 <td><code>@MainActor</code></td>
 <td><code>Dispatchers.Main</code></td>
-<td><code>loop.call_soon_threadsafe</code></td>
+<td><code>loop.call_soon</code></td>
+<td>В Go нет UI-очереди, OS Runtime</td>
 </tr>
 </tbody>
 </table>
@@ -2399,44 +2447,44 @@
 <th>Swift 6</th>
 <th>Kotlin 2.x</th>
 <th>Python 3.13</th>
+<th>Go 1.24+</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Бросить</td>
+<td>Выкинуть</td>
 <td><code>throw MyError.x</code></td>
 <td><code>throw MyException()</code></td>
 <td><code>raise MyError()</code></td>
+<td><code>return nil, errors.New("err")</code></td>
 </tr>
 <tr>
 <td>Поймать</td>
 <td><code>do { try f() } catch { }</code></td>
-<td><code>try { f() } catch (e: E) { }</code></td>
-<td><code>try: f() except E as e:</code></td>
+<td><code>try { f() } catch () { }</code></td>
+<td><code>try: f() except:</code></td>
+<td><code>if err != nil { return err }</code></td>
 </tr>
 <tr>
 <td>Optional ошибка</td>
 <td><code>try? f()</code></td>
 <td><code>runCatching { f() }</code></td>
 <td>Нет аналога</td>
+<td><code>if err != nil</code></td>
 </tr>
 <tr>
 <td>Result</td>
 <td><code>Result&lt;T, Error&gt;</code></td>
 <td><code>Result&lt;T&gt;</code> (stdlib)</td>
-<td>Нет (Pydantic Result)</td>
+<td>Pydantic Result</td>
+<td>Возврат кортежа <code>(T, error)</code></td>
 </tr>
 <tr>
-<td>Typed throws</td>
-<td><code>throws(MyError)</code> (Swift 6)</td>
-<td>—</td>
-<td>—</td>
-</tr>
-<tr>
-<td>Exception groups</td>
-<td>—</td>
-<td>—</td>
-<td><code>ExceptionGroup</code> (3.11+)</td>
+<td>Panic/Crash</td>
+<td><code>fatalError()</code></td>
+<td><code>throw RuntimeException()</code></td>
+<td><code>raise Exception()</code></td>
+<td><code>panic("crash")</code> / <code>recover()</code></td>
 </tr>
 </tbody>
 </table>
@@ -2448,36 +2496,41 @@
 <th>Swift 6</th>
 <th>Kotlin 2.x</th>
 <th>Python 3.13</th>
+<th>Go 1.24+</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Модель</td>
-<td>ARC (детерминированный)</td>
-<td>JVM GC (G1/ZGC)</td>
+<td>ARC (Count Ref)</td>
+<td>JVM GC</td>
 <td>Ref-counting + cyclic GC</td>
+<td>Concurrent Tri-color GC</td>
 </tr>
 <tr>
 <td>Weak ref</td>
 <td><code>weak var x: T?</code></td>
 <td><code>WeakReference&lt;T&gt;(obj)</code></td>
 <td><code>weakref.ref(obj)</code></td>
+<td>Нет (не нужно)</td>
 </tr>
 <tr>
-<td>Деструктор</td>
+<td>Очистка</td>
 <td><code>deinit { }</code></td>
 <td><code>protected fun finalize()</code></td>
 <td><code>def __del__(self):</code></td>
+<td><code>runtime.SetFinalizer(obj)</code> (редко)</td>
 </tr>
 <tr>
-<td>Value type</td>
-<td><code>struct</code> (стек/COW)</td>
-<td><code>@JvmInline value class</code></td>
-<td><code>NamedTuple</code>, <code>frozen dataclass</code></td>
+<td>Пост-выход</td>
+<td><code>defer { }</code></td>
+<td><code>try { } finally { }</code></td>
+<td><code>try: ... finally:</code></td>
+<td><code>defer file.Close()</code></td>
 </tr>
 </tbody>
 </table>
-<h2 id="_8">Пакеты и инструменты<a class="headerlink" href="#_8" title="Permanent link">🔗</a></h2>
+<h2 id="_8">Экосистема<a class="headerlink" href="#_8" title="Permanent link">🔗</a></h2>
 <table>
 <thead>
 <tr>
@@ -2485,6 +2538,7 @@
 <th>Swift 6</th>
 <th>Kotlin 2.x</th>
 <th>Python 3.13</th>
+<th>Go 1.24+</th>
 </tr>
 </thead>
 <tbody>
@@ -2493,66 +2547,56 @@
 <td>SPM</td>
 <td>Gradle KTS</td>
 <td>uv / pip</td>
+<td><code>go mod</code></td>
 </tr>
 <tr>
 <td>Конфиг</td>
 <td><code>Package.swift</code></td>
 <td><code>build.gradle.kts</code></td>
 <td><code>pyproject.toml</code></td>
+<td><code>go.mod</code> / <code>go.work</code></td>
 </tr>
 <tr>
 <td>Тесты</td>
 <td>Swift Testing / XCTest</td>
 <td>JUnit 5 + MockK</td>
 <td>pytest</td>
+<td><code>testing</code> (встроенный)</td>
 </tr>
 <tr>
-<td>Линтер</td>
-<td>SwiftLint</td>
-<td>Detekt / Ktlint</td>
-<td>Ruff</td>
-</tr>
-<tr>
-<td>Formatter</td>
+<td>Форматтер</td>
 <td>swift-format</td>
 <td>Ktfmt</td>
 <td>Ruff format</td>
+<td><code>go fmt</code> (строгий стандарт!)</td>
 </tr>
 <tr>
 <td>Даты</td>
-<td>Foundation <code>Date</code> / Clock</td>
-<td><code>java.time</code> / kotlinx-datetime</td>
-<td><code>datetime</code> + <code>zoneinfo</code></td>
+<td>Foundation <code>Date</code></td>
+<td>kotlinx-datetime</td>
+<td><code>datetime</code></td>
+<td><code>time.Time</code></td>
 </tr>
 <tr>
-<td>HTTP</td>
+<td>HTTP/Сеть</td>
 <td>URLSession</td>
 <td>Ktor Client</td>
 <td>httpx / aiohttp</td>
+<td><code>net/http</code></td>
 </tr>
 <tr>
 <td>ORM/DB</td>
 <td>SwiftData / GRDB</td>
 <td>Room / Exposed</td>
 <td>SQLAlchemy</td>
+<td>GORM / sqlc / std <code>database/sql</code></td>
 </tr>
 <tr>
 <td>Сериализация</td>
-<td>Codable (JSON/Plist)</td>
+<td>Codable</td>
 <td>kotlinx.serialization</td>
 <td>Pydantic v2</td>
-</tr>
-<tr>
-<td>Безопасность</td>
-<td>CryptoKit</td>
-<td>javax.crypto</td>
-<td>hashlib / cryptography</td>
-</tr>
-<tr>
-<td>Изображения</td>
-<td>UIImage + Core Image</td>
-<td>Bitmap + Coil</td>
-<td>Pillow (PIL)</td>
+<td><code>encoding/json</code></td>
 </tr>
 </tbody>
 </table>
