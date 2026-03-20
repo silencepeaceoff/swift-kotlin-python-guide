@@ -32,7 +32,8 @@ It covers everything from basic syntax to modern 2026 paradigms:
 - **Multilingual:** Fully translated UI and code comments (EN, DE, RU).
 
 ## 📸 Sneak Peek
-*(Replace this text: Take a nice screenshot of your website showing the code tabs and dark mode, and drag-and-drop it here in the GitHub editor!)*
+<img width="1315" height="1543" alt="Screenshot 2026-03-20 at 20 09 52" src="https://github.com/user-attachments/assets/250df7c2-4e03-4232-92bf-cd010b6fb28f" />
+
 
 ## 🛠 How to run locally (For Contributors)
 Want to add a new section or fix a typo? Running the site locally is easy.
