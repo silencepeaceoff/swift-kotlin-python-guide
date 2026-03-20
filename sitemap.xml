@@ -1,843 +1,843 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>None./</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="None"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/"/>
     </url>
     <url>
-        <loc>Noneaccess_modifiers/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/access_modifiers/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneaccess_modifiers/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/access_modifiers/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/access_modifiers/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/access_modifiers/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/access_modifiers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/access_modifiers/"/>
     </url>
     <url>
-        <loc>Noneadvanced_protocols/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/advanced_protocols/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneadvanced_protocols/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/advanced_protocols/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/advanced_protocols/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/advanced_protocols/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/advanced_protocols/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/advanced_protocols/"/>
     </url>
     <url>
-        <loc>Noneasync/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/async/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneasync/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/async/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/async/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/async/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/async/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/async/"/>
     </url>
     <url>
-        <loc>Nonebasics/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/basics/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonebasics/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/basics/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/basics/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/basics/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/basics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/basics/"/>
     </url>
     <url>
-        <loc>Nonecheatsheet/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/cheatsheet/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonecheatsheet/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/cheatsheet/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/cheatsheet/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/cheatsheet/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/cheatsheet/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/cheatsheet/"/>
     </url>
     <url>
-        <loc>Nonecollections/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/collections/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonecollections/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/collections/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/collections/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/collections/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/collections/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/collections/"/>
     </url>
     <url>
-        <loc>Noneconcurrency/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/concurrency/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneconcurrency/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/concurrency/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/concurrency/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/concurrency/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/concurrency/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/concurrency/"/>
     </url>
     <url>
-        <loc>Nonecontrol_flow/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/control_flow/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonecontrol_flow/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/control_flow/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/control_flow/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/control_flow/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/control_flow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/control_flow/"/>
     </url>
     <url>
-        <loc>Nonedata_formats/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/data_formats/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonedata_formats/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/data_formats/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/data_formats/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/data_formats/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/data_formats/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/data_formats/"/>
     </url>
     <url>
-        <loc>Nonedatabases/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/databases/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonedatabases/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/databases/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/databases/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/databases/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/databases/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/databases/"/>
     </url>
     <url>
-        <loc>Nonedates/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/dates/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonedates/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/dates/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/dates/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/dates/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/dates/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/dates/"/>
     </url>
     <url>
-        <loc>Nonedebugging/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/debugging/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonedebugging/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/debugging/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/debugging/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/debugging/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/debugging/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/debugging/"/>
     </url>
     <url>
-        <loc>Nonedesign_patterns/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/design_patterns/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonedesign_patterns/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/design_patterns/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/design_patterns/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/design_patterns/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/design_patterns/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/design_patterns/"/>
     </url>
     <url>
-        <loc>Nonedsl_builders/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/dsl_builders/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonedsl_builders/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/dsl_builders/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/dsl_builders/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/dsl_builders/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/dsl_builders/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/dsl_builders/"/>
     </url>
     <url>
-        <loc>Noneenums/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/enums/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneenums/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/enums/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/enums/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/enums/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/enums/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/enums/"/>
     </url>
     <url>
-        <loc>Noneenv_cli/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/env_cli/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneenv_cli/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/env_cli/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/env_cli/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/env_cli/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/env_cli/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/env_cli/"/>
     </url>
     <url>
-        <loc>Noneerror_handling/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/error_handling/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneerror_handling/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/error_handling/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/error_handling/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/error_handling/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/error_handling/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/error_handling/"/>
     </url>
     <url>
-        <loc>Nonefiles/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/files/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonefiles/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/files/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/files/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/files/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/files/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/files/"/>
     </url>
     <url>
-        <loc>Nonefunctional/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/functional/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonefunctional/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/functional/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/functional/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/functional/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/functional/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/functional/"/>
     </url>
     <url>
-        <loc>Nonefunctions/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/functions/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonefunctions/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/functions/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/functions/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/functions/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/functions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/functions/"/>
     </url>
     <url>
-        <loc>Nonegenerics/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/generics/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonegenerics/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/generics/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/generics/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/generics/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/generics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/generics/"/>
     </url>
     <url>
-        <loc>Noneimages/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/images/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneimages/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/images/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/images/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/images/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/images/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/images/"/>
     </url>
     <url>
-        <loc>Nonekmp/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/kmp/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonekmp/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/kmp/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/kmp/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/kmp/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/kmp/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/kmp/"/>
     </url>
     <url>
-        <loc>Nonememory_leaks/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/memory_leaks/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonememory_leaks/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/memory_leaks/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/memory_leaks/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/memory_leaks/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/memory_leaks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/memory_leaks/"/>
     </url>
     <url>
-        <loc>Nonenetworking/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/networking/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonenetworking/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/networking/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/networking/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/networking/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/networking/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/networking/"/>
     </url>
     <url>
-        <loc>Noneoop/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/oop/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneoop/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/oop/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/oop/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/oop/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/oop/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/oop/"/>
     </url>
     <url>
-        <loc>Noneoperators/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/operators/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneoperators/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/operators/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/operators/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/operators/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/operators/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/operators/"/>
     </url>
     <url>
-        <loc>Nonepackage_managers/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/package_managers/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonepackage_managers/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/package_managers/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/package_managers/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/package_managers/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/package_managers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/package_managers/"/>
     </url>
     <url>
-        <loc>Noneproperty_wrappers/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/property_wrappers/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneproperty_wrappers/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/property_wrappers/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/property_wrappers/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/property_wrappers/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/property_wrappers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/property_wrappers/"/>
     </url>
     <url>
-        <loc>Noneregex/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/regex/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneregex/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/regex/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/regex/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/regex/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/regex/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/regex/"/>
     </url>
     <url>
-        <loc>Nonesecurity/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/security/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonesecurity/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/security/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/security/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/security/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/security/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/security/"/>
     </url>
     <url>
-        <loc>Noneserialization/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/serialization/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneserialization/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/serialization/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/serialization/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/serialization/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/serialization/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/serialization/"/>
     </url>
     <url>
-        <loc>Noneswift_macros/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/swift_macros/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneswift_macros/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/swift_macros/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/swift_macros/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/swift_macros/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/swift_macros/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/swift_macros/"/>
     </url>
     <url>
-        <loc>Nonetesting/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/testing/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonetesting/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/testing/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/testing/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/testing/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/testing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/testing/"/>
     </url>
     <url>
-        <loc>Noneen/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="None"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/"/>
     </url>
     <url>
-        <loc>Noneen/access_modifiers/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/access_modifiers/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/access_modifiers/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/access_modifiers/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneaccess_modifiers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/access_modifiers/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/access_modifiers/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/access_modifiers/"/>
     </url>
     <url>
-        <loc>Noneen/advanced_protocols/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/advanced_protocols/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/advanced_protocols/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/advanced_protocols/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneadvanced_protocols/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/advanced_protocols/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/advanced_protocols/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/advanced_protocols/"/>
     </url>
     <url>
-        <loc>Noneen/async/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/async/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/async/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/async/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneasync/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/async/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/async/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/async/"/>
     </url>
     <url>
-        <loc>Noneen/basics/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/basics/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/basics/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/basics/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonebasics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/basics/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/basics/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/basics/"/>
     </url>
     <url>
-        <loc>Noneen/cheatsheet/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/cheatsheet/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/cheatsheet/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/cheatsheet/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonecheatsheet/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/cheatsheet/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/cheatsheet/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/cheatsheet/"/>
     </url>
     <url>
-        <loc>Noneen/collections/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/collections/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/collections/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/collections/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonecollections/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/collections/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/collections/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/collections/"/>
     </url>
     <url>
-        <loc>Noneen/concurrency/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/concurrency/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/concurrency/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/concurrency/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneconcurrency/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/concurrency/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/concurrency/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/concurrency/"/>
     </url>
     <url>
-        <loc>Noneen/control_flow/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/control_flow/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/control_flow/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/control_flow/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonecontrol_flow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/control_flow/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/control_flow/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/control_flow/"/>
     </url>
     <url>
-        <loc>Noneen/data_formats/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/data_formats/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/data_formats/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/data_formats/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonedata_formats/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/data_formats/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/data_formats/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/data_formats/"/>
     </url>
     <url>
-        <loc>Noneen/databases/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/databases/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/databases/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/databases/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonedatabases/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/databases/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/databases/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/databases/"/>
     </url>
     <url>
-        <loc>Noneen/dates/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/dates/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/dates/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/dates/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonedates/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/dates/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/dates/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/dates/"/>
     </url>
     <url>
-        <loc>Noneen/debugging/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/debugging/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/debugging/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/debugging/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonedebugging/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/debugging/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/debugging/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/debugging/"/>
     </url>
     <url>
-        <loc>Noneen/design_patterns/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/design_patterns/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/design_patterns/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/design_patterns/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonedesign_patterns/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/design_patterns/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/design_patterns/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/design_patterns/"/>
     </url>
     <url>
-        <loc>Noneen/dsl_builders/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/dsl_builders/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/dsl_builders/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/dsl_builders/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonedsl_builders/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/dsl_builders/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/dsl_builders/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/dsl_builders/"/>
     </url>
     <url>
-        <loc>Noneen/enums/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/enums/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/enums/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/enums/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneenums/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/enums/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/enums/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/enums/"/>
     </url>
     <url>
-        <loc>Noneen/env_cli/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/env_cli/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/env_cli/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/env_cli/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneenv_cli/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/env_cli/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/env_cli/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/env_cli/"/>
     </url>
     <url>
-        <loc>Noneen/error_handling/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/error_handling/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/error_handling/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/error_handling/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneerror_handling/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/error_handling/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/error_handling/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/error_handling/"/>
     </url>
     <url>
-        <loc>Noneen/files/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/files/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/files/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/files/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonefiles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/files/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/files/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/files/"/>
     </url>
     <url>
-        <loc>Noneen/functional/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/functional/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/functional/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/functional/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonefunctional/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/functional/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/functional/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/functional/"/>
     </url>
     <url>
-        <loc>Noneen/functions/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/functions/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/functions/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/functions/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonefunctions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/functions/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/functions/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/functions/"/>
     </url>
     <url>
-        <loc>Noneen/generics/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/generics/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/generics/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/generics/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonegenerics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/generics/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/generics/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/generics/"/>
     </url>
     <url>
-        <loc>Noneen/images/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/images/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/images/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/images/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneimages/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/images/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/images/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/images/"/>
     </url>
     <url>
-        <loc>Noneen/kmp/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/kmp/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/kmp/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/kmp/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonekmp/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/kmp/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/kmp/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/kmp/"/>
     </url>
     <url>
-        <loc>Noneen/memory_leaks/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/memory_leaks/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/memory_leaks/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/memory_leaks/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonememory_leaks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/memory_leaks/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/memory_leaks/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/memory_leaks/"/>
     </url>
     <url>
-        <loc>Noneen/networking/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/networking/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/networking/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/networking/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonenetworking/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/networking/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/networking/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/networking/"/>
     </url>
     <url>
-        <loc>Noneen/oop/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/oop/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/oop/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/oop/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneoop/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/oop/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/oop/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/oop/"/>
     </url>
     <url>
-        <loc>Noneen/operators/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/operators/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/operators/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/operators/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneoperators/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/operators/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/operators/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/operators/"/>
     </url>
     <url>
-        <loc>Noneen/package_managers/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/package_managers/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/package_managers/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/package_managers/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonepackage_managers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/package_managers/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/package_managers/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/package_managers/"/>
     </url>
     <url>
-        <loc>Noneen/property_wrappers/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/property_wrappers/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/property_wrappers/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/property_wrappers/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneproperty_wrappers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/property_wrappers/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/property_wrappers/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/property_wrappers/"/>
     </url>
     <url>
-        <loc>Noneen/regex/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/regex/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/regex/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/regex/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneregex/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/regex/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/regex/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/regex/"/>
     </url>
     <url>
-        <loc>Noneen/security/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/security/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/security/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/security/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonesecurity/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/security/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/security/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/security/"/>
     </url>
     <url>
-        <loc>Noneen/serialization/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/serialization/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/serialization/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/serialization/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneserialization/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/serialization/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/serialization/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/serialization/"/>
     </url>
     <url>
-        <loc>Noneen/swift_macros/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/swift_macros/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/swift_macros/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/swift_macros/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneswift_macros/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/swift_macros/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/swift_macros/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/swift_macros/"/>
     </url>
     <url>
-        <loc>Noneen/testing/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/testing/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/testing/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/testing/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonetesting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/testing/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/testing/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/testing/"/>
     </url>
     <url>
-        <loc>Nonede/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="None"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/"/>
     </url>
     <url>
-        <loc>Nonede/access_modifiers/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/access_modifiers/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/access_modifiers/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/access_modifiers/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneaccess_modifiers/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/access_modifiers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/access_modifiers/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/access_modifiers/"/>
     </url>
     <url>
-        <loc>Nonede/advanced_protocols/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/advanced_protocols/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/advanced_protocols/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/advanced_protocols/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneadvanced_protocols/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/advanced_protocols/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/advanced_protocols/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/advanced_protocols/"/>
     </url>
     <url>
-        <loc>Nonede/async/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/async/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/async/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/async/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneasync/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/async/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/async/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/async/"/>
     </url>
     <url>
-        <loc>Nonede/basics/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/basics/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/basics/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/basics/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonebasics/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/basics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/basics/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/basics/"/>
     </url>
     <url>
-        <loc>Nonede/cheatsheet/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/cheatsheet/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/cheatsheet/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/cheatsheet/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonecheatsheet/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/cheatsheet/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/cheatsheet/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/cheatsheet/"/>
     </url>
     <url>
-        <loc>Nonede/collections/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/collections/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/collections/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/collections/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonecollections/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/collections/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/collections/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/collections/"/>
     </url>
     <url>
-        <loc>Nonede/concurrency/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/concurrency/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/concurrency/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/concurrency/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneconcurrency/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/concurrency/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/concurrency/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/concurrency/"/>
     </url>
     <url>
-        <loc>Nonede/control_flow/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/control_flow/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/control_flow/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/control_flow/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonecontrol_flow/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/control_flow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/control_flow/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/control_flow/"/>
     </url>
     <url>
-        <loc>Nonede/data_formats/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/data_formats/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/data_formats/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/data_formats/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonedata_formats/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/data_formats/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/data_formats/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/data_formats/"/>
     </url>
     <url>
-        <loc>Nonede/databases/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/databases/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/databases/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/databases/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonedatabases/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/databases/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/databases/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/databases/"/>
     </url>
     <url>
-        <loc>Nonede/dates/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/dates/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/dates/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/dates/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonedates/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/dates/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/dates/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/dates/"/>
     </url>
     <url>
-        <loc>Nonede/debugging/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/debugging/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/debugging/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/debugging/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonedebugging/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/debugging/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/debugging/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/debugging/"/>
     </url>
     <url>
-        <loc>Nonede/design_patterns/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/design_patterns/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/design_patterns/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/design_patterns/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonedesign_patterns/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/design_patterns/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/design_patterns/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/design_patterns/"/>
     </url>
     <url>
-        <loc>Nonede/dsl_builders/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/dsl_builders/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/dsl_builders/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/dsl_builders/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonedsl_builders/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/dsl_builders/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/dsl_builders/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/dsl_builders/"/>
     </url>
     <url>
-        <loc>Nonede/enums/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/enums/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/enums/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/enums/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneenums/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/enums/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/enums/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/enums/"/>
     </url>
     <url>
-        <loc>Nonede/env_cli/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/env_cli/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/env_cli/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/env_cli/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneenv_cli/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/env_cli/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/env_cli/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/env_cli/"/>
     </url>
     <url>
-        <loc>Nonede/error_handling/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/error_handling/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/error_handling/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/error_handling/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneerror_handling/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/error_handling/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/error_handling/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/error_handling/"/>
     </url>
     <url>
-        <loc>Nonede/files/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/files/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/files/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/files/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonefiles/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/files/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/files/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/files/"/>
     </url>
     <url>
-        <loc>Nonede/functional/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/functional/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/functional/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/functional/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonefunctional/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/functional/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/functional/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/functional/"/>
     </url>
     <url>
-        <loc>Nonede/functions/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/functions/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/functions/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/functions/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonefunctions/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/functions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/functions/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/functions/"/>
     </url>
     <url>
-        <loc>Nonede/generics/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/generics/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/generics/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/generics/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonegenerics/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/generics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/generics/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/generics/"/>
     </url>
     <url>
-        <loc>Nonede/images/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/images/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/images/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/images/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneimages/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/images/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/images/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/images/"/>
     </url>
     <url>
-        <loc>Nonede/kmp/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/kmp/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/kmp/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/kmp/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonekmp/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/kmp/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/kmp/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/kmp/"/>
     </url>
     <url>
-        <loc>Nonede/memory_leaks/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/memory_leaks/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/memory_leaks/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/memory_leaks/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonememory_leaks/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/memory_leaks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/memory_leaks/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/memory_leaks/"/>
     </url>
     <url>
-        <loc>Nonede/networking/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/networking/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/networking/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/networking/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonenetworking/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/networking/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/networking/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/networking/"/>
     </url>
     <url>
-        <loc>Nonede/oop/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/oop/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/oop/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/oop/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneoop/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/oop/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/oop/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/oop/"/>
     </url>
     <url>
-        <loc>Nonede/operators/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/operators/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/operators/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/operators/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneoperators/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/operators/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/operators/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/operators/"/>
     </url>
     <url>
-        <loc>Nonede/package_managers/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/package_managers/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/package_managers/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/package_managers/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonepackage_managers/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/package_managers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/package_managers/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/package_managers/"/>
     </url>
     <url>
-        <loc>Nonede/property_wrappers/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/property_wrappers/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/property_wrappers/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/property_wrappers/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneproperty_wrappers/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/property_wrappers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/property_wrappers/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/property_wrappers/"/>
     </url>
     <url>
-        <loc>Nonede/regex/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/regex/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/regex/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/regex/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneregex/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/regex/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/regex/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/regex/"/>
     </url>
     <url>
-        <loc>Nonede/security/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/security/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/security/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/security/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonesecurity/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/security/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/security/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/security/"/>
     </url>
     <url>
-        <loc>Nonede/serialization/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/serialization/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/serialization/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/serialization/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneserialization/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/serialization/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/serialization/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/serialization/"/>
     </url>
     <url>
-        <loc>Nonede/swift_macros/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/swift_macros/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/swift_macros/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/swift_macros/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Noneswift_macros/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/swift_macros/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/swift_macros/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/swift_macros/"/>
     </url>
     <url>
-        <loc>Nonede/testing/</loc>
+        <loc>https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/testing/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="Nonede/testing/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/testing/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="Nonetesting/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/de/testing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/en/testing/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://silencepeaceoff.github.io/swift-kotlin-python-guide/testing/"/>
     </url>
 </urlset>
